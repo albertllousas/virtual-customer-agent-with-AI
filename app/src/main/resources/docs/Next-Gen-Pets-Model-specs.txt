@@ -1,0 +1,31 @@
+1. Canine Series
+Models: BuddyBot Corgi, BuddyBot Retriever, BuddyBot Husky
+Specs: AI-driven personality, 12-hour battery life, waterproof fur, voice recognition.
+Functionalities: Follows owner, responds to commands, simulated heartbeat, app-controlled play and feed modes.
+2. Feline Series
+Models: Purrfect Siamese, Purrfect Maine Coon, Purrfect Sphynx
+Specs: Solar-powered with backup battery, tactile sensors for petting response, night vision cameras.
+Functionalities: Realistic purring, interactive laser pointer games, mood detection, autonomous exploration mode.
+3. Drone Series
+Models: AeroEagle, AeroParrot, AeroHummingbird
+Specs: Lightweight carbon fiber frame, 360° obstacle avoidance, HD camera eyes, 15-hour battery life.
+Functionalities: Flight mode, voice mimicry (AeroParrot), real-time aerial photography, companion following.
+4. Reptile Series
+Models: ExoGecko, ExoDragon, ExoTurtle
+Specs: Heat-sensitive scales, amphibious capabilities (ExoTurtle), LED mood indicators, modular tail attachments.
+Functionalities: Wall climbing (ExoGecko), smoke breath simulation (ExoDragon), water purification system (ExoTurtle).
+5. Fantasy Series
+Models: MythiUnicorn, MythiPhoenix, MythiGriffin
+Specs: Holographic wing projections, bio-luminescent fur/feathers, crystalline voice synthesizers.
+Functionalities: Magical light shows, phoenix “rebirth” charging station, griffin dual-terrain mobility (air/land).
+6. Aquatic Series
+Models: EcoDolphin, EcoShark, EcoJelly
+Specs: Waterproof up to 100 meters, sonar mapping, biodegradable casing, kinetic charging through movement.
+Functionalities: Aquarium compatibility, water quality monitoring, interactive swimming patterns, LED color expressions.
+7. Insect Series
+Models: NanoButterfly, NanoBeetle, NanoDragonfly
+Specs: Micro-robotics design, solar panel wings, swarm intelligence capabilities, 24-hour battery life.
+Functionalities: Pollination assistance mode (NanoButterfly), object lifting (NanoBeetle), hyper-speed flight (NanoDragonfly).
+
+Functionalities: Music and light therapy, environmental ambiance control, stress detection and soothing routines.
+Each NextGen Pet model is designed with a specific target audience in mind, offering a range of interactions from practical assistance to pure entertainment. The fictional NextGen Pets Inc. prides itself on pushing the boundaries of robotic companionship, blending technology with the natural desire for connection.
