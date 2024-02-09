@@ -40,7 +40,7 @@ curl -X POST 'http://localhost:8080/customer-service/chats' \
 ```
 
 ```json
-{"chatId":"d1fe4533-2155-4fa5-93fa-69f233f59aef","message":"Hello Albert! How can I assist you today?"} 
+{"chatId":"{CHAT_ID}","message":"Hello Albert! How can I assist you today?"} 
 ```
 ```bash
 curl -X PUT 'http://localhost:8080/customer-service/chats/{CHAT_ID}' \
@@ -52,7 +52,7 @@ curl -X PUT 'http://localhost:8080/customer-service/chats/{CHAT_ID}' \
 
 ```json
 {
-  "chatId":"599daa01-cad8-4503-8ba4-5e015c577656",
+  "chatId":"{CHAT_ID}",
   "message":"Certainly! Here is a list of the aquatic series models available from NextGen Pets:\n\n1. EcoDolphin\n2. EcoShark\n3. EcoJelly\n\nThese models in the Aquatic Series are designed to provide an interactive and immersive aquatic experience. Each model comes with unique specifications and functionalities to enhance your aquatic companionship."
 }
 ```
