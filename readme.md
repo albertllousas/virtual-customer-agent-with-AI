@@ -6,7 +6,7 @@ Keywords: `kotlin`, `spring-boot`, `spring-AI`, `Open-AI`, `Vector Store`, `RAG`
 
 This is a simple customer service chatbot for a company called **Next Gen Pets** that uses the OpenAI API to generate responses to customer queries.
 
-All the FAQs and specific information about the company are stored in files in the [docs folder](/src/main/resources/docs) used to provide specific knowledge in the answers.
+All the FAQs and specific information about the company is loaded from external files and used to provide domain expertise in the answers.
 
 <p align="center">
   <img width="100%" src="./docs/service.png">
