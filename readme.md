@@ -2,6 +2,8 @@
 
 Keywords: `kotlin`, `spring-boot`, `spring-AI`, `Open-AI`, `Vector Store`, `RAG`, `Redis`
 
+Codebase for [this](https://medium.com/@albert.llousas/practical-ai-for-everyday-software-engineers-f2ac1fcf0063) medium article
+
 ## Description
 
 This is a simple customer service chatbot for a company called **Next Gen Pets** that uses the OpenAI API to generate responses to customer queries.
