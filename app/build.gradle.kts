@@ -4,7 +4,7 @@ plugins {
     id("org.jetbrains.kotlin.jvm") version "1.8.10"
     application
     kotlin("plugin.spring") version "1.4.31"
-    id("org.springframework.boot") version "3.2.2"
+    id("org.springframework.boot") version "3.2.3"
     id("io.spring.dependency-management") version "1.1.4"
 }
 
@@ -15,7 +15,7 @@ object Versions {
     const val ASSERTJ = "3.25.2"
     const val ARROW = "1.2.1"
     const val KOTEST_ASSERTIONS = "5.8.0"
-    const val SPRING_AI_OPENAI = "0.8.0-SNAPSHOT"
+    const val SPRING_AI_OPENAI = "0.8.0"
     const val TESTCONTAINERS = "1.19.4"
     const val REST_ASSURED = "5.3.0"
 }
@@ -34,7 +34,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-web")
     implementation("org.springframework.boot:spring-boot-starter-data-redis:3.2.2")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.16.1")
-    implementation("org.springframework.ai:spring-ai-openai-spring-boot-starter:${Versions.SPRING_AI_OPENAI}")
+    implementation("org.springframework.ai:spring-ai-ollama-spring-boot-starter:${Versions.SPRING_AI_OPENAI}")
 
     testImplementation(group = "io.rest-assured", name = "rest-assured", version = Versions.REST_ASSURED)
     testImplementation("org.springframework.boot:spring-boot-starter-test")
