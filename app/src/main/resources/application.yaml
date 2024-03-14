@@ -14,3 +14,5 @@ spring:
           top-k: 2
           num-g-p-u: 1 #enable metal gpu on MAC
       base-url: "http://localhost:11434"
+      chat:
+        model: "llama2"
