@@ -7,10 +7,10 @@ spring:
   ai:
     ollama:
       embedding:
-#        model: "llama2"
-#        options:
-#          temperature: 0.5
-#          top-p: 0.2
-#          top-k: 2
-#          num-g-p-u: 1 #enable metal gpu on MAC
+        model: "llama2"
+        options:
+          temperature: 0.5
+          top-p: 0.2
+          top-k: 2
+          num-g-p-u: 1 #enable metal gpu on MAC
       base-url: "http://localhost:11434"
