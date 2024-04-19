@@ -62,7 +62,7 @@ curl -X PUT 'http://localhost:8080/customer-service/chats/{CHAT_ID}' \
 ```
 
 ## Missing
-- Mechanism to redirect to a real agent when the bot is not able to answer the query or the user asks for it
+- "Intent" mechanism to automate actions, metrics ...
 - A proper Vector Store
 
 ## Resources
