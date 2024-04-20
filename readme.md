@@ -62,7 +62,7 @@ curl -X PUT 'http://localhost:8080/customer-service/chats/{CHAT_ID}' \
 ```
 
 ## Missing
-- "Intent" mechanism to automate actions, metrics ...
+- A proper **"Intent" mechanism** to automate actions, metrics ...
 - A proper Vector Store
 
 ## Resources
